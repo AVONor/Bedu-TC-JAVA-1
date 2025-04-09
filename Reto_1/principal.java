@@ -14,6 +14,7 @@ public class principal {
         System.out.println("Ingresa el número de expediente: "); 
         paciente_1.numero_exp = input.nextLine(); 
 
+        input.close();
         paciente_1.mostrar_info();
 
     }
