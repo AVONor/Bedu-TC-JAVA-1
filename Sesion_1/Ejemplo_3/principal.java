@@ -1,4 +1,4 @@
-package Ejemplo_3;
+package Sesion_1.Ejemplo_3;
 
 public class principal {
     public static void main (String[] args) {

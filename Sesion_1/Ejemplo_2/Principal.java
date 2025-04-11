@@ -1,5 +1,5 @@
 
-package Ejemplo_2; 
+package Sesion_1.Ejemplo_2; 
 public class Principal {
     public static void main(String[] args) {
         // Crear mis objetos 

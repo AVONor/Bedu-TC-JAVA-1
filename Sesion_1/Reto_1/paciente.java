@@ -1,4 +1,4 @@
-package Reto_1;
+package Sesion_1.Reto_1;
 class paciente {
 
     String nombre_paciente;

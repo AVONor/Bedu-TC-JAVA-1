@@ -1,4 +1,4 @@
-package Reto_2;
+package Sesion_1.Reto_2;
 
 public class entrada {
     String nombre_evento;
@@ -15,3 +15,5 @@ public class entrada {
         System.out.println("Evento: " + nombre_evento + " | " + "Precio: $" + precio_entrada);
     }
 }
+
+

@@ -1,5 +1,5 @@
 // clase es la especificación de un conjunto de objetos 
-package Ejemplo_2;
+package Sesion_1.Ejemplo_2;
 public class Estudiante {
     // atributos
     String nombre; 

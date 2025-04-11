@@ -1,4 +1,4 @@
-package Reto_2;
+package Sesion_1.Reto_2;
 
 public class Principal {
     public static void main(String[] args) {
