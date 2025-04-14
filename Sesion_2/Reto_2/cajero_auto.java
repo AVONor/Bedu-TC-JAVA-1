@@ -44,7 +44,7 @@ public class cajero_auto {
                 System.out.println("Gracias por visitar el cajero");
                 break;
             default:
-                System.out.print("Inserte una opción valida");
+                System.out.print("Inserte una opción valida\n");
         }
     }
     while(opcion !=4);
