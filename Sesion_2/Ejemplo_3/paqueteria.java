@@ -28,7 +28,7 @@ public class paqueteria {
             
         }
 
-        input.close();
+       
 
         costo = switch (tipo.toLowerCase()) {
             case "pequeño" -> 49.99;
@@ -44,6 +44,26 @@ public class paqueteria {
 
 
 
+        System.out.print("Deme el tipo de paquete (1,2,3): ");
+        int tipo_1 = input.nextInt();
+
+        switch (tipo_1) {
+            case 1:
+                costo = 49.99;
+                System.out.print("1. Este es con un switch clasico " + "El costo es $ " + costo);
+                break;
+            case 2:
+                costo = 89.99;
+                System.out.print("2. Este es con un switch clasico " + "El costo es $ " + costo);
+                break;
+            case 3:
+                costo = 149.99;
+                System.out.print("3. Este es con un switch clasico " + "El costo es $ " + costo);
+                break;
+            default:
+                System.out.print("No es ningún tipo");
+        }
+        input.close();
     }
 }
 
