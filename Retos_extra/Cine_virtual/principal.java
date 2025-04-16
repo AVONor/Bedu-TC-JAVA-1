@@ -180,10 +180,10 @@ public class principal {
                         System.out.println("Esta pelicula no se encuentra en cartelera");
                     }
                     a_pagar = switch(boletos_eliminar){
-                        case 1 -> 78* eliminar;
-                        case 2 -> 65* eliminar;
-                        case 3 -> 92* eliminar;
-                        case 4 -> 45* eliminar;
+                        case 1 -> 78 * eliminar;
+                        case 2 -> 65 * eliminar;
+                        case 3 -> 92 * eliminar;
+                        case 4 -> 45 * eliminar;
                         default -> {
                             System.out.println("Esta pelicula no se encuentra en cartelera");
                             yield 0.0;
@@ -198,8 +198,6 @@ public class principal {
                     System.out.println("Esta opción no esta disponible");
                     break;
             }
-
-
 
         }
         while(opcion !=5);
