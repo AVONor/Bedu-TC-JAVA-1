@@ -1,6 +1,5 @@
-# Bedu-TC-JAVA-1
+# Bedu-TC-JAVA-1 ⚜️
 
-:electron:
 Hola, he aquí las actividades del curso JAVA-BEDU 💾 :one: edición. Use por convención y comodidad propia el IDE VS Code y ejecuto ▶️ los archivos en la terminal, para ello hago lo siguiente: 
 
 1. Para cada archivo 📄 creo su clase:  
