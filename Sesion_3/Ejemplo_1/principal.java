@@ -10,7 +10,6 @@ public class principal {
         p1.mostrar_info();
         p2.mostrar_info();
         
-
         p1.cerrar();
 
         p1.mostrar_info();

@@ -1,10 +1,10 @@
 package Sesion_3.Ejemplo_1;
 
 public class proyecto {
-    String nombre;
-    String cliente;
-    int duracion_semanas;
-    boolean esta_activo;
+    private String nombre;
+    private String cliente;
+    private int duracion_semanas;
+    private boolean esta_activo;
 
     public static int total_proyectos = 0;
 
