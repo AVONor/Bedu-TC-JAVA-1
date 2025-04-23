@@ -15,8 +15,7 @@ public class principal {
         p1.mostrar_info();
        
         System.out.println("En total hay: " + proyecto.total_proyectos);
-
-
         
     }
 }
+
