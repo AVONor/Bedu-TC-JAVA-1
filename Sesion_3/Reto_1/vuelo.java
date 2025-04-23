@@ -12,13 +12,13 @@ public class vuelo {
         this.horaSalida = horaSalida; 
     }
 
-    boolean reservarAsiento(pasajero p) {
+    public boolean reservarAsiento(pasajero p) {
         asientoReservado = p; 
         reserva = asientoReservado != null;
         return reserva; 
     }
 
-    boolean reservarAsiento(pasajero p, String nombre, String pasaporte) { 
+    public boolean reservarAsiento(pasajero p, String nombre, String pasaporte) { 
         p.getnombre(); 
         p.getpasaporte(); 
         asientoReservado = p; 
