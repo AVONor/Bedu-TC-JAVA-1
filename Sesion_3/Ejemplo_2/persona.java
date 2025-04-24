@@ -17,4 +17,8 @@ public class persona {
         edad = edad *2;
         System.out.println("Esta edad es suya: " + edad);
     }
+
+    public void mostrar(){
+        System.out.println("Nombre" );
+    }
 }
