@@ -1,5 +1,6 @@
 package Sesion_5.Reto_2;
 
+import java.util.Objects;
 
 public class PagoTransferencia extends MetodoPago{
     String destino_banco; 
@@ -13,7 +14,7 @@ public class PagoTransferencia extends MetodoPago{
     @Override
     public boolean autenticar(){
         String destino_2 = "X446781"; 
-        autentificacion = destino_banco.equals(destino_2);
+        autentificacion = Objects.equals(destino_banco, destino_2);
         if (autentificacion){
             return true; 
         } else {
