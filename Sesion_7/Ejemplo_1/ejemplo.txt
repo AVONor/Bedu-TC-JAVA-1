@@ -1,0 +1,4 @@
+"El sistema de control de producción permite gestionar de forma eficiente cada orden de trabajo, 
+garantizando la trazabilidad de los productos y la correcta asignación de recursos. 
+Gracias a este enfoque, las operaciones se optimizan y se reducen los tiempos de espera, 
+lo cual mejora la productividad general y facilita la toma de decisiones basada en datos reales."
