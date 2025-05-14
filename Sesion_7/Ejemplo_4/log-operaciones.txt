@@ -1,0 +1,6 @@
+Java es un lenguaje de programación orientado a objetos, ampliamente utilizado por su portabilidad, seguridad y robustez. 
+Funciona sobre la Java Virtual Machine (JVM), lo que permite ejecutar el mismo código en diferentes plataformas sin modificarlo. 
+Su sintaxis se basa en C/C++, pero ofrece una gestión automática de memoria (recolección de basura) y una rica biblioteca estándar.
+
+Además, Java es muy usado en aplicaciones empresariales, desarrollo web, apps móviles (Android) y sistemas embebidos. 
+Su ecosistema incluye herramientas como Spring, Maven y JavaFX, y promueve buenas prácticas como la modularidad, reutilización de código y encapsulamiento.
