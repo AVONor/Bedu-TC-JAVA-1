@@ -1,0 +1,23 @@
+✅ Conexión establecida correctamente.
+⚠️ Advertencia: El archivo ya existe, se sobrescribirá.
+❌ Error: No se pudo cargar el archivo de configuración.
+✅ Usuario autenticado exitosamente.
+⚠️ Advertencia: Memoria disponible baja.
+❌ Error: Índice fuera de rango en el arreglo.
+✅ Archivo exportado correctamente.
+⚠️ Advertencia: No se encontraron registros para mostrar.
+⚠️ Advertencia: Campo 'correo' está vacío.
+❌ Error: No se pudo crear el directorio.
+✅ Configuración aplicada.
+⚠️ Advertencia: Contraseña débil.
+❌ Error: Permisos insuficientes para realizar esta operación.
+⚠️ Advertencia: La versión del software está desactualizada.
+❌ Error: Token de seguridad expirado.
+✅ Copia de seguridad realizada con éxito.
+⚠️ Advertencia: Usuario sin rol asignado.
+❌ Error: Fallo al parsear el archivo JSON.
+✅ Servicio iniciado.
+⚠️ Advertencia: Nombre de archivo demasiado largo.
+❌ Error: Archivo no encontrado.
+⚠️ Advertencia: Tiempo de respuesta lento.
+❌ Error: Objeto nulo detectado.
