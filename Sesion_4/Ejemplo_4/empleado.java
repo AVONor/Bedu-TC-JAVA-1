@@ -1,7 +1,5 @@
 package Sesion_4.Ejemplo_4;
 
-
-
 public class empleado {
     private String nombre;
     private int edad;
